@@ -18,4 +18,27 @@ To get started with the Daily Practice React and React Expo Project, follow thes
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/daily-practice-react.git
+   https://github.com/RajalakshmiR24/React_and_React_Native_Daily_Practice_Project.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd daily-practice-react
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   
+4. Start the development server:
+
+   ```bash
+   npm start
+
+## Contact
+Have questions or suggestions? Feel free to reach out to us:
+
+Email: rajalakshmi245806@gmail.com
+LinkedIn: https://www.linkedin.com/in/raja-lakshmi-154519204/
+Happy coding!
+

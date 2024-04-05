@@ -2,7 +2,9 @@
 
 This repository contains a simple implementation of a user card component built using Vite, Tailwind CSS, and React.
 
-![image](https://github.com/RRajalakshmi24/Simple-Card/assets/101980299/a31ac930-fcdf-4097-ab9d-803668665afd)
+https://simple-card-five.vercel.app/
+
+![Picture1](https://github.com/RajalakshmiR24/React_and_React_Native_Daily_Practice_Project/assets/127002476/c2799d4f-8183-49c5-81a5-fcca23405eaf)
 
 
 ## Features

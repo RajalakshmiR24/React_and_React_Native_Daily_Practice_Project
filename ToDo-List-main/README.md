@@ -1,6 +1,11 @@
 # TodoList
 This is a simple todo list application built using React.js and styled with Tailwind CSS. The project adheres to the SOLID principles to ensure maintainability, flexibility, and scalability.
 
+https://todo-list-seven-topaz.vercel.app/
+
+![Picture1](https://github.com/RajalakshmiR24/React_and_React_Native_Daily_Practice_Project/assets/127002476/36271a9f-90b6-4bb5-9143-1a9fb11cad1b)
+
+
 ## SOLID Principles
 ### Single Responsibility Principle (SRP)
 - Each component has a single responsibility:

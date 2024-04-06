@@ -1,6 +1,6 @@
 # Daily Practice React and React Expo Project
 
-1. Simple User Card
+## 1. Simple User Card
 This repository contains a simple implementation of a user card component built using Vite, Tailwind CSS, and React.
 
    https://simple-card-five.vercel.app/
